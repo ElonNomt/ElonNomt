@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElonNomt
 - 👀 I’m interested in Computer science.
 - 🌱 I’m currently learning python and html.
-- 📫 How to reach me just email me.chinnomt1@gmail.com
+- 📫 How to reach me just email me. chinnomt1@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am Mongolian
 
